@@ -10,8 +10,7 @@ The primary goal was to encourage students to apply core concepts creatively and
 
 A huge congratulations to *all* participants! Below is the "Hall of Fame" for our challenge winners and a list of all participants.
 
----
-*(Rest of the README remains the same)*
+
 
 ---
 
