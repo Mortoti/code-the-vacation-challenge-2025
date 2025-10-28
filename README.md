@@ -2,13 +2,16 @@
 
 Welcome to the official showcase for the **Code the Vacation Challenge 2025**!
 
-This challenge was the first major project for the NOLAP TECH Python bootcamp, where **13 students participated**. The task was to build a project of **their choice** using **only** the fundamental concepts taught up to that point: loops, lists, conditionals, functions, and (for those who started later) dictionaries.
+This challenge was the first major project for the **NOLAP TECH Python bootcamp**, which I organized and taught for university students. **13 students participated**, and the task was to build a project of **their choice** using **only** the fundamental concepts taught up to that point: loops, lists, conditionals, functions, and (for those who started later) dictionaries.
 
 The primary goal was to encourage students to apply core concepts creatively and build ambitious projects. The focus was on the **vision, architecture, and creative solutions** they came up with, demonstrating their understanding. While some projects may have minor bugs (a natural part of coding!), we are celebrating the incredible effort shown in these submissions.
 
 *Please note: This challenge was separate from the final end-of-bootcamp project, which all students must complete to receive their Certificate of Completion.*
 
 A huge congratulations to *all* participants! Below is the "Hall of Fame" for our challenge winners and a list of all participants.
+
+---
+*(Rest of the README remains the same)*
 
 ---
 
