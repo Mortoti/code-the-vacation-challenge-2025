@@ -155,7 +155,7 @@ A well-structured banking application demonstrating good use of functions and li
 ### Project: Galactic Trials
 **Participant: Louis Sanyani**
 
-An ambitious multi-game hub featuring several mini-games within a cohesive space theme, complete with scoring and ranking. (*Note: High AI flag observed during evaluation.*)
+An ambitious multi-game hub featuring several mini-games within a cohesive space theme, complete with scoring and ranking. (Couldn't Make it for Presentation because of illness)
 
 **Key Features:**
 * Multi-game hub architecture with a central menu (Riddles, Guess Planet, RPS, Palindrome Test).
