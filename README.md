@@ -81,17 +81,65 @@ A fantastic and personal idea that was 100% genuine student work. It showed an e
 
 A huge thank you and congratulations to all the other students who participated and submitted fantastic projects!
 
-* **Allagbo Frank Morrison** - Project: **Me-chatbot**
-    * *A helpful chatbot that could tell the time, date, and perform basic calculations.*
-* **Asare Agyeiwaa Wendy** - Project: **Play and Win**
-    * *A creative pay-to-play quiz game with account creation, login, and withdrawal features.*
-* **Nyarkoah Mavis** - Project: **KNUST RESULTS SLIP**
-    * *A practical tool using functions and lists to calculate student grades based on marks.*
-* **Nkrumah Jemimah** - Project: **Market Trend Predictor Simulation**
-    * *A strong, creative simulation using lists and random numbers to model market fluctuations.*
-* **Acheampong Kojo** - Project: **Simple Banking System**
-    * *A well-structured banking app using functions and a list to track transaction history.*
-* **Louis Sanyani** - Project: **Galactic Trials**
-    * *An ambitious multi-game hub with a space theme, rank system, and various mini-games.*
+### Project: Me-chatbot
+**Participant: Allagbo Frank Morrison**
+
+A helpful chatbot with a simple sign-up process. It could tell the current time and date, and perform basic arithmetic calculations. (*Note: Used the `datetime` module.*)
+
+**Key Features:**
+* User account creation and welcome message.
+* Tells current time and date.
+* Performs basic math operations (+, -, *, /) with input validation.
+
+### Project: Play and Win
+**Participant: Asare Agyeiwaa Wendy**
+
+A creative pay-to-play quiz game simulating a complete user journey from sign-up to cashing out winnings.
+
+**Key Features:**
+* Secure account creation using `getpass`.
+* A unique "pay-to-play" deposit requirement to activate the account.
+* Quiz game where the account balance is directly affected by answers.
+* A withdrawal system with validation rules (e.g., minimum balance).
+
+### Project: KNUST RESULTS SLIP
+**Participant: Nyarkoah Mavis**
+
+A practical tool perfectly using functions, lists, and loops to calculate student grades based on marks and credit hours, following a standard university format.
+
+**Key Features:**
+* Clean modular design using separate functions for calculations (total, average, grade).
+* Correctly uses lists and loops to handle multiple subjects.
+* Calculates and displays a formatted results slip including total, average, and final grade.
+
+### Project: Market Trend Predictor Simulation
+**Participant: Nkrumah Jemimah**
+
+A strong, creative simulation modeling financial market fluctuations and investment returns over a set number of days.
+
+**Key Features:**
+* Uses `random.uniform` to simulate daily market price changes.
+* Cleverly uses two separate lists to track `price_history` and `Investment_record`.
+* Includes input validation and a "run again" loop for replayability.
+
+### Project: Simple Banking System
+**Participant: Acheampong Kojo**
+
+A well-structured banking application demonstrating good use of functions and lists to manage transactions and maintain a history log.
+
+**Key Features:**
+* Modular design with functions for `create_account`, `deposit`, and `withdraw`.
+* Uses a list to keep a running `history` of all transactions made.
+* Menu-driven interface for easy navigation between banking options.
+
+### Project: Galactic Trials
+**Participant: Louis Sanyani**
+
+An ambitious multi-game hub featuring several mini-games within a cohesive space theme, complete with scoring and ranking. (*Note: High AI flag observed during evaluation.*)
+
+**Key Features:**
+* Multi-game hub architecture with a central menu (Riddles, Guess Planet, RPS, Palindrome Test).
+* Persistent score tracking across different games.
+* A player ranking system ("Cadet Rookie" to "Cosmic Legend").
 
 *(Note: Two more participants' details will be added later.)*
