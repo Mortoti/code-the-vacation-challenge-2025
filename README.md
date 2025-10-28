@@ -10,8 +10,6 @@ The primary goal was to encourage students to apply core concepts creatively and
 
 A huge congratulations to *all* participants! Below is the "Hall of Fame" for our challenge winners and a list of all participants.
 
-
-
 ---
 
 ## 🥇 Best Overall Winner 🥇
@@ -24,6 +22,8 @@ This project was the perfect all-rounder. It's a highly practical, real-world to
 * **Dual-Path Logic:** Correctly calculates *either* CWA (from marks) or GPA (from grades) based on the user's school system.
 * **Full Academic Classification:** Includes a complete classification system to grade the final score (e.g., "First Class," "Second Class Upper," etc.).
 * **Clean Modular Code:** Perfectly separated into functions, each with a single responsibility (e.g., `get_course_data`, `calculate_cwa`, `classify_gpa`).
+
+**[➡️ View Project on GitHub](https://github.com/Isaac-Anafo/code_the_vacation_project_1)**
 
 ---
 
@@ -38,6 +38,8 @@ This was, by far, the most complex application submitted. It featured a perfectl
 * **Admin/User Roles:** Features a password-protected "Librarian" admin panel to view confidential borrower and delivery records.
 * **Payment & Delivery System:** Simulates a real service by handling delivery fees, pickup options, and payment verification.
 
+**[➡️ View Project on GitHub](https://github.com/richmondasarefrimpong-maker/Library-)**
+
 ---
 
 ## 🎨 Most Creative Project 🎨
@@ -50,6 +52,8 @@ This was an incredibly ambitious project, featuring a 5-game arcade with a sign-
 * **Multi-Game Arcade:** A 5-game hub including Rock-Paper-Scissors, Sci-Math Quiz, Hangman, and "Tumtum anaa Koko" (Red or Black).
 * **Unique NSMQ Scoring:** A brilliant riddle game with scoring inspired by the NSMQ (5 points for 1st clue, 4 for 2nd, 3 thereafter).
 * **Complete App Flow:** Built with a user sign-up and password validation system from the start.
+
+**[➡️ View Project on GitHub](https://github.com/Joel-kn/Challenge)**
 
 ---
 
@@ -64,6 +68,8 @@ This was a highly creative, bug-free, and 100% genuine project. The student buil
 * **Brute-Force Protection:** The secure PIN login features a 3-attempt limit and will lock the user out (exiting the program) on failure.
 * **Bug-Free Transactions:** A flawless, bug-free banking menu for deposits, withdrawals, and balance checks.
 
+**[➡️ View Project on GitHub](https://github.com/Lordaria-ai/CTVWM-Challenge)**
+
 ---
 
 ## 🌟 Honourable Mention 🌟
@@ -76,6 +82,8 @@ A fantastic and personal idea that was 100% genuine student work. It showed an e
 * **Smart Suggestion Engine:** A complex `if/elif` logic tree that finds a specific outfit based on 3 different user inputs (occasion, comfort, weather).
 * **Defensive Coding:** Includes `else` blocks that provide a "default" outfit if the user's input is invalid, preventing errors.
 * **Feedback System:** A complete feedback loop where a user can rate the suggested outfit and view their history.
+
+**[➡️ View Project on GitHub](https://github.com/rebeccaantobre/RebeccaStylez)**
 
 ---
 
@@ -93,6 +101,8 @@ A helpful chatbot with a simple sign-up process. It could tell the current time 
 * Tells current time and date.
 * Performs basic math operations (+, -, *, /) with input validation.
 
+**[➡️ View Project on GitHub](https://github.com/kwamemorris22/mini-project)**
+
 ### Project: Play and Win
 **Participant: Asare Agyeiwaa Wendy**
 
@@ -104,6 +114,8 @@ A creative pay-to-play quiz game simulating a complete user journey from sign-up
 * Quiz game where the account balance is directly affected by answers.
 * A withdrawal system with validation rules (e.g., minimum balance).
 
+**[➡️ View Project on GitHub](https://github.com/nanaefiahasare-tech/play_and_win)**
+
 ### Project: KNUST RESULTS SLIP
 **Participant: Nyarkoah Mavis**
 
@@ -114,15 +126,19 @@ A practical tool perfectly using functions, lists, and loops to calculate studen
 * Correctly uses lists and loops to handle multiple subjects.
 * Calculates and displays a formatted results slip including total, average, and final grade.
 
+**[➡️ View Project on GitHub](https://github.com/Nyarkoah-dev/main)**
+
 ### Project: Market Trend Predictor Simulation
 **Participant: Nkrumah Jemimah**
 
-A strong, creative simulation modeling financial market fluctuations and investment returns over a set number of days.
+A strong, creative simulation using lists and random numbers to model financial market fluctuations and investment returns over a set number of days.
 
 **Key Features:**
 * Uses `random.uniform` to simulate daily market price changes.
 * Cleverly uses two separate lists to track `price_history` and `Investment_record`.
 * Includes input validation and a "run again" loop for replayability.
+
+**[➡️ View Project on GitHub](https://github.com/Nkrumah-17Jemimah/market-simulation-project)**
 
 ### Project: Simple Banking System
 **Participant: Acheampong Kojo**
@@ -134,6 +150,8 @@ A well-structured banking application demonstrating good use of functions and li
 * Uses a list to keep a running `history` of all transactions made.
 * Menu-driven interface for easy navigation between banking options.
 
+**[➡️ View Project on GitHub](https://github.com/kwadwo-dev/simple-banking-system)**
+
 ### Project: Galactic Trials
 **Participant: Louis Sanyani**
 
@@ -143,5 +161,7 @@ An ambitious multi-game hub featuring several mini-games within a cohesive space
 * Multi-game hub architecture with a central menu (Riddles, Guess Planet, RPS, Palindrome Test).
 * Persistent score tracking across different games.
 * A player ranking system ("Cadet Rookie" to "Cosmic Legend").
+
+**[➡️ View Project on GitHub](https://github.com/King-Leo58148/Galactic-Recruit)**
 
 *(Note: Two more participants' details will be added later.)*
